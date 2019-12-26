@@ -32,6 +32,5 @@
     "% min read": "% min read",
 	"< 1 min read": "< 1 min read",
 	"Please enter a valid email address!": "Please enter a valid email address!",
-	"Great!": "Great!",
-	"Check your inbox and click the link to confirm your subscription.": "Check your inbox and click the link to confirm your subscription."
+	"<strong>Great! </strong> Check your inbox and click the link to confirm your subscription.": "<strong>Great! </strong> Check your inbox and click the link to confirm your subscription."
 }
