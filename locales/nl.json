@@ -32,6 +32,5 @@
     "% min read": "% min leestijd",
     "< 1 min read": "< 1 min leestijd",
 	"Please enter a valid email address!": "Gelieve een correct e-mail adres in te vullen!",
-	"Great!": "Super!",
-	"Check your inbox and click the link to confirm your subscription.": "Controleer je inbox en klik op de link om jouw inschrijving te bevestigen."
+	"<strong>Great! </strong> Check your inbox and click the link to confirm your subscription.": "<strong>Super! </strong> Check jouw inbox en klik op de link om jouw inschrijving te bevestigen."
 }
