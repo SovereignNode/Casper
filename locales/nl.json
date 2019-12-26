@@ -9,7 +9,7 @@
     "Subscribed!": "Ingeschreven!",
     "with the email address": "met e-mailadres",
     "Your email address": "Jouw e-mailadres",
-    "You've successfully subscribed to": "Je bent met succes ingeschreven bij",
+    "You've successfully subscribed to {blogtitle}!": "Je bent met succes ingeschreven bij {blogtitle}",
     "A collection of posts": "Een collectie van artikels",
     "A collection of 1 post": "Een collectie van 1 artikel",
     "A collection of % posts": "Een collectie van % artikels",
@@ -32,5 +32,6 @@
     "% min read": "% min leestijd",
     "< 1 min read": "< 1 min leestijd",
 	"Please enter a valid email address!": "Gelieve een correct e-mail adres in te vullen!",
-	"Great!": "Super!"
+	"Great!": "Super!",
+	"Check your inbox and click the link to confirm your subscription.": "Controleer je inbox en klik op de link om jouw inschrijving te bevestigen."
 }

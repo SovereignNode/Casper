@@ -9,7 +9,7 @@
     "Subscribed!": "Subscribed!",
     "with the email address": "with the email address",
     "Your email address": "Your email address",
-    "You've successfully subscribed to": "You've successfully subscribed to",
+    "You've successfully subscribed to {blogtitle}!": "You've successfully subscribed to {blogtitle}!",
     "A collection of posts": "A collection of posts",
     "A collection of 1 post": "A collection of 1 post",
     "A collection of % posts": "A collection of % posts",
@@ -30,6 +30,8 @@
     "% posts": "% posts",
     "1 min read": "1 min read",
     "% min read": "% min read",
+	"< 1 min read": "< 1 min read",
 	"Please enter a valid email address!": "Please enter a valid email address!",
-	"Great!": "Great!"
+	"Great!": "Great!",
+	"Check your inbox and click the link to confirm your subscription.": "Check your inbox and click the link to confirm your subscription."
 }
